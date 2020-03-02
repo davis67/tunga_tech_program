@@ -182,7 +182,7 @@ class App extends Component {
             </div>
           </div>
           <div className="w-full flex ">
-            <div className="w-8/12 m-4">
+            <div className="w-7/12 m-4">
               <div className="my-4 flex">
                 <div className=" flex m-4 py-8 px-6 justify-between text-gray-600 bg-white w-1/2 font-bold shadow">
                   <div className>
@@ -296,28 +296,28 @@ class App extends Component {
             </div>
             <div className="w-4/12 m-2 my-4 bg-white shadow border">
               <h2 className="text-center text-2xl">Activity</h2>
-              <div>
+              <div className="flex flex-col justify-center">
                 <div className="border p-4 m-2">
                   Order#408 was placed
                   <br />
                   <span>4 hours ago</span>
                 </div>
-                <div className="border p-4 m-2">
+                <div className="p-4 m-2">
                   Order#408 was delivered
                   <br />
                   <span>4 hours ago</span>
                 </div>
-                <div className="border p-4 m-2">
+                <div className="p-4 m-2">
                   Order#401 was confirmed
                   <br />
                   <span>4 hours ago</span>
                 </div>
-                <div className="border p-4 m-2">
+                <div className="p-4 m-2">
                   Order#402 was cancelled
                   <br />
                   <span>4 hours ago</span>
                 </div>
-                <div className="border p-4 m-2">
+                <div className="p-4 m-2">
                   Order#401 was placed
                   <br />
                   <span>4 hours ago</span>
