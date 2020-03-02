@@ -1,0 +1,12 @@
+.mainwrapper{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+
+    background: #F3F3FB;
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+}
